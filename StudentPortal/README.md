@@ -40,3 +40,19 @@ This is a comprehensive mobile-first application developed as a solution for the
 5. Use the Expo Go app on your mobile device (iOS/Android) or an emulator to run the application.
 
 *Login Credentials for Testing: `23i0112` / `password123`*
+
+
+## Screenshots
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="../screenshots/1.jpeg" width="200" />
+  <img src="../screenshots/2.jpeg" width="200" />
+  <img src="../screenshots/3.jpeg" width="200" />
+  <img src="../screenshots/4.jpeg" width="200" />
+  <img src="../screenshots/5.jpeg" width="200" />
+  <img src="../screenshots/6.jpeg" width="200" />
+  <img src="../screenshots/7.jpeg" width="200" />
+  <img src="../screenshots/8.jpeg" width="200" />
+  <img src="../screenshots/9.jpeg" width="200" />
+  <img src="../screenshots/10.jpeg" width="200" />
+</div>
